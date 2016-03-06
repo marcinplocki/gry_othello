@@ -1,0 +1,24 @@
+{
+  "name": "0.1.0",
+  "version": "1.0.0",
+  "description": "Othelllo game",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --progress --colors --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcinplocki/gry_othello.git"
+  },
+  "author": "Marcin Plocki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcinplocki/gry_othello/issues"
+  },
+  "homepage": "https://github.com/marcinplocki/gry_othello#readme",
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "webpack": "^1.12.13"
+  }
+}
